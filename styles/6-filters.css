@@ -26,10 +26,10 @@
     height: 100%;
     width: 25%;
     border-right: #DDDDDD 1px solid;
+    text-align: left;
 }
 .locations h2 {
     font-size: 16px;
-
 }
 .amenities {
     height: 100%;
